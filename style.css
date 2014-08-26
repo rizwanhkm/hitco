@@ -9,6 +9,7 @@
 #main-content {
     background-color: #EEEEEE;
     width:100%;
+    min-height: 80%;
     height: auto;
 }
 
@@ -128,4 +129,10 @@ address {
 
 .featurette {
     height: 100%;
+}
+
+#captions div {
+}
+
+.owl-carousel {
 }

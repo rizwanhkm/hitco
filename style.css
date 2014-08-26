@@ -31,3 +31,27 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+li {
+    width:20%;
+    display: inline-block;
+    float: none;
+}
+
+ul {
+    width: 100%;
+}
+
+a {
+    position: relative;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-fluid {
+}
+
+.navbar {
+    text-align: center;
+}

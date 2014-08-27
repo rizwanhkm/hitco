@@ -136,3 +136,14 @@ address {
 
 .owl-carousel {
 }
+
+.carousel-caption p  {
+    font-size: 25px;
+}
+
+.container {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
